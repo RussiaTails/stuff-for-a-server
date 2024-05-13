@@ -1,0 +1,45 @@
+<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width"><style type="text/css">body,html {background:#fff;font-family:"Bitstream Vera Sans","Lucida Grande","Lucida Sans Unicode",Lucidux,Verdana,Lucida,sans-serif;}tr:nth-child(even) {background:#f4f4f4;}th,td {padding:0.1em 0.5em;}th {text-align:left;font-weight:bold;background:#eee;border-bottom:1px solid #aaa;}#list {border:1px solid #aaa;width:100%;}a {color:#a33;}a:hover {color:#e33;}</style>
+
+<title>Index of /tf/models/items/</title>
+</head><body><h1>Index of /tf/models/items/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../?C=M&amp;O=A">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="ammopack_halloween/?C=M&amp;O=A" title="ammopack_halloween">ammopack_halloween/</a></td><td class="size">-</td><td class="date">2023-Aug-25 20:09</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.vvd" title="medkit_robot_small.vvd">medkit_robot_small.vvd</a></td><td class="size">15.1 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.mdl.bz2" title="medkit_robot_small.mdl.bz2">medkit_robot_small.mdl.bz2</a></td><td class="size">888 B</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.dx90.vtx" title="medkit_robot_medium.dx90.vtx">medkit_robot_medium.dx90.vtx</a></td><td class="size">8.0 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.phy" title="medkit_robot_large.phy">medkit_robot_large.phy</a></td><td class="size">718 B</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.sw.vtx.bz2" title="medkit_robot_medium.sw.vtx.bz2">medkit_robot_medium.sw.vtx.bz2</a></td><td class="size">2.3 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.vvd.bz2" title="medkit_robot_large.vvd.bz2">medkit_robot_large.vvd.bz2</a></td><td class="size">8.3 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.vvd" title="medkit_robot_medium.vvd">medkit_robot_medium.vvd</a></td><td class="size">33.6 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.vvd.bz2" title="medkit_robot_medium.vvd.bz2">medkit_robot_medium.vvd.bz2</a></td><td class="size">14.8 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.sw.vtx" title="medkit_robot_medium.sw.vtx">medkit_robot_medium.sw.vtx</a></td><td class="size">8.0 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.sw.vtx.bz2" title="medkit_robot_large.sw.vtx.bz2">medkit_robot_large.sw.vtx.bz2</a></td><td class="size">1.7 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.dx90.vtx" title="medkit_robot_small.dx90.vtx">medkit_robot_small.dx90.vtx</a></td><td class="size">4.1 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.mdl" title="medkit_robot_small.mdl">medkit_robot_small.mdl</a></td><td class="size">2.7 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.dx90.vtx.bz2" title="medkit_robot_large.dx90.vtx.bz2">medkit_robot_large.dx90.vtx.bz2</a></td><td class="size">1.8 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.phy.bz2" title="medkit_robot_small.phy.bz2">medkit_robot_small.phy.bz2</a></td><td class="size">553 B</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.dx80.vtx" title="medkit_robot_small.dx80.vtx">medkit_robot_small.dx80.vtx</a></td><td class="size">4.1 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.sw.vtx.bz2" title="medkit_robot_small.sw.vtx.bz2">medkit_robot_small.sw.vtx.bz2</a></td><td class="size">1.4 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.phy.bz2" title="medkit_robot_large.phy.bz2">medkit_robot_large.phy.bz2</a></td><td class="size">522 B</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.mdl" title="medkit_robot_large.mdl">medkit_robot_large.mdl</a></td><td class="size">2.7 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.phy" title="medkit_robot_small.phy">medkit_robot_small.phy</a></td><td class="size">717 B</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.vvd.bz2" title="medkit_robot_small.vvd.bz2">medkit_robot_small.vvd.bz2</a></td><td class="size">7.6 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.sw.vtx" title="medkit_robot_small.sw.vtx">medkit_robot_small.sw.vtx</a></td><td class="size">4.1 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.dx90.vtx.bz2" title="medkit_robot_small.dx90.vtx.bz2">medkit_robot_small.dx90.vtx.bz2</a></td><td class="size">1.4 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.dx80.vtx" title="medkit_robot_large.dx80.vtx">medkit_robot_large.dx80.vtx</a></td><td class="size">6.1 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.dx80.vtx" title="medkit_robot_medium.dx80.vtx">medkit_robot_medium.dx80.vtx</a></td><td class="size">8.0 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.phy.bz2" title="medkit_robot_medium.phy.bz2">medkit_robot_medium.phy.bz2</a></td><td class="size">537 B</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.mdl.bz2" title="medkit_robot_large.mdl.bz2">medkit_robot_large.mdl.bz2</a></td><td class="size">847 B</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.vvd" title="medkit_robot_large.vvd">medkit_robot_large.vvd</a></td><td class="size">29.4 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.dx80.vtx.bz2" title="medkit_robot_large.dx80.vtx.bz2">medkit_robot_large.dx80.vtx.bz2</a></td><td class="size">1.8 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.dx90.vtx" title="medkit_robot_large.dx90.vtx">medkit_robot_large.dx90.vtx</a></td><td class="size">6.1 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.mdl" title="medkit_robot_medium.mdl">medkit_robot_medium.mdl</a></td><td class="size">2.4 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.mdl.bz2" title="medkit_robot_medium.mdl.bz2">medkit_robot_medium.mdl.bz2</a></td><td class="size">848 B</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_large.sw.vtx" title="medkit_robot_large.sw.vtx">medkit_robot_large.sw.vtx</a></td><td class="size">6.1 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.phy" title="medkit_robot_medium.phy">medkit_robot_medium.phy</a></td><td class="size">719 B</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.dx90.vtx.bz2" title="medkit_robot_medium.dx90.vtx.bz2">medkit_robot_medium.dx90.vtx.bz2</a></td><td class="size">2.4 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_medium.dx80.vtx.bz2" title="medkit_robot_medium.dx80.vtx.bz2">medkit_robot_medium.dx80.vtx.bz2</a></td><td class="size">2.4 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+<tr><td class="link"><a href="medkit_robot_small.dx80.vtx.bz2" title="medkit_robot_small.dx80.vtx.bz2">medkit_robot_small.dx80.vtx.bz2</a></td><td class="size">1.4 KiB</td><td class="date">2020-Oct-28 00:01</td></tr>
+</tbody></table><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"834ee4ee9e4b35fd","version":"2023.10.0","r":1,"token":"a32359c62dd74d65a4f2b882af501c36","b":1}' crossorigin="anonymous"></script>
+</body></html>

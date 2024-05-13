@@ -1,0 +1,38 @@
+<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width"><style type="text/css">body,html {background:#fff;font-family:"Bitstream Vera Sans","Lucida Grande","Lucida Sans Unicode",Lucidux,Verdana,Lucida,sans-serif;}tr:nth-child(even) {background:#f4f4f4;}th,td {padding:0.1em 0.5em;}th {text-align:left;font-weight:bold;background:#eee;border-bottom:1px solid #aaa;}#list {border:1px solid #aaa;width:100%;}a {color:#a33;}a:hover {color:#e33;}</style>
+
+<title>Index of /tf/models/weapons/c_models/animations/soldier/</title>
+</head><body><h1>Index of /tf/models/weapons/c_models/animations/soldier/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../?C=M&amp;O=D">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="throw.mdl" title="throw.mdl">throw.mdl</a></td><td class="size">37.3 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="shovel.mdl.bz2" title="shovel.mdl.bz2">shovel.mdl.bz2</a></td><td class="size">21.2 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="bison.mdl" title="bison.mdl">bison.mdl</a></td><td class="size">45.0 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="shotgun.mdl.bz2" title="shotgun.mdl.bz2">shotgun.mdl.bz2</a></td><td class="size">25.2 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="rocket_launcher.mdl.bz2" title="rocket_launcher.mdl.bz2">rocket_launcher.mdl.bz2</a></td><td class="size">16.4 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="throw.mdl.bz2" title="throw.mdl.bz2">throw.mdl.bz2</a></td><td class="size">16.3 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="grappling_hook.mdl.bz2" title="grappling_hook.mdl.bz2">grappling_hook.mdl.bz2</a></td><td class="size">17.7 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="mangler.mdl.bz2" title="mangler.mdl.bz2">mangler.mdl.bz2</a></td><td class="size">15.9 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="bugle.mdl.bz2" title="bugle.mdl.bz2">bugle.mdl.bz2</a></td><td class="size">15.1 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="spell_cast.mdl" title="spell_cast.mdl">spell_cast.mdl</a></td><td class="size">31.1 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="bugle.mdl" title="bugle.mdl">bugle.mdl</a></td><td class="size">34.4 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="original.mdl.bz2" title="original.mdl.bz2">original.mdl.bz2</a></td><td class="size">11.4 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="melee_allclass.mdl" title="melee_allclass.mdl">melee_allclass.mdl</a></td><td class="size">34.9 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="melee_allclass.mdl.bz2" title="melee_allclass.mdl.bz2">melee_allclass.mdl.bz2</a></td><td class="size">14.4 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="grappling_hook.mdl" title="grappling_hook.mdl">grappling_hook.mdl</a></td><td class="size">40.3 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="mangler.mdl" title="mangler.mdl">mangler.mdl</a></td><td class="size">40.3 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="shovel.mdl" title="shovel.mdl">shovel.mdl</a></td><td class="size">43.9 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="conch.mdl" title="conch.mdl">conch.mdl</a></td><td class="size">37.3 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="original.mdl" title="original.mdl">original.mdl</a></td><td class="size">34.3 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="secondary_inspect.mdl" title="secondary_inspect.mdl">secondary_inspect.mdl</a></td><td class="size">53.6 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="rocket_launcher.mdl" title="rocket_launcher.mdl">rocket_launcher.mdl</a></td><td class="size">43.8 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="bison.mdl.bz2" title="bison.mdl.bz2">bison.mdl.bz2</a></td><td class="size">20.3 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="primary_inspect.mdl.bz2" title="primary_inspect.mdl.bz2">primary_inspect.mdl.bz2</a></td><td class="size">36.6 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="secondary_inspect.mdl.bz2" title="secondary_inspect.mdl.bz2">secondary_inspect.mdl.bz2</a></td><td class="size">32.4 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="pose_params.mdl" title="pose_params.mdl">pose_params.mdl</a></td><td class="size">48.3 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="primary_inspect.mdl" title="primary_inspect.mdl">primary_inspect.mdl</a></td><td class="size">58.6 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="spell_cast.mdl.bz2" title="spell_cast.mdl.bz2">spell_cast.mdl.bz2</a></td><td class="size">11.8 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="pose_params.mdl.bz2" title="pose_params.mdl.bz2">pose_params.mdl.bz2</a></td><td class="size">23.1 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="conch.mdl.bz2" title="conch.mdl.bz2">conch.mdl.bz2</a></td><td class="size">14.1 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+<tr><td class="link"><a href="shotgun.mdl" title="shotgun.mdl">shotgun.mdl</a></td><td class="size">49.2 KiB</td><td class="date">2023-Oct-26 19:07</td></tr>
+</tbody></table><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"83509a55dac681b8","version":"2023.10.0","r":1,"token":"a32359c62dd74d65a4f2b882af501c36","b":1}' crossorigin="anonymous"></script>
+</body></html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width"><style type="text/css">body,html {background:#fff;font-family:"Bitstream Vera Sans","Lucida Grande","Lucida Sans Unicode",Lucidux,Verdana,Lucida,sans-serif;}tr:nth-child(even) {background:#f4f4f4;}th,td {padding:0.1em 0.5em;}th {text-align:left;font-weight:bold;background:#eee;border-bottom:1px solid #aaa;}#list {border:1px solid #aaa;width:100%;}a {color:#a33;}a:hover {color:#e33;}</style>
+
+<title>Index of /tf/models/mvm/barrier/</title>
+</head><body><h1>Index of /tf/models/mvm/barrier/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../?C=S&amp;O=A">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="barrier_building2.dx80.vtx.bz2" title="barrier_building2.dx80.vtx.bz2">barrier_building2.dx80.vtx.bz2</a></td><td class="size">156 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building2.dx90.vtx.bz2" title="barrier_building2.dx90.vtx.bz2">barrier_building2.dx90.vtx.bz2</a></td><td class="size">157 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building2.sw.vtx.bz2" title="barrier_building2.sw.vtx.bz2">barrier_building2.sw.vtx.bz2</a></td><td class="size">159 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.sw.vtx.bz2" title="barrier_spawn_blue1.sw.vtx.bz2">barrier_spawn_blue1.sw.vtx.bz2</a></td><td class="size">167 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.dx80.vtx.bz2" title="barrier_spawn_blue1.dx80.vtx.bz2">barrier_spawn_blue1.dx80.vtx.bz2</a></td><td class="size">167 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.dx90.vtx.bz2" title="barrier_spawn_blue1.dx90.vtx.bz2">barrier_spawn_blue1.dx90.vtx.bz2</a></td><td class="size">168 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.dx80.vtx.bz2" title="barrier_oneway_red1.dx80.vtx.bz2">barrier_oneway_red1.dx80.vtx.bz2</a></td><td class="size">175 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.dx90.vtx.bz2" title="barrier_oneway_red1.dx90.vtx.bz2">barrier_oneway_red1.dx90.vtx.bz2</a></td><td class="size">176 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.dx80.vtx.bz2" title="barrier_oneway_red2.dx80.vtx.bz2">barrier_oneway_red2.dx80.vtx.bz2</a></td><td class="size">176 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.dx90.vtx.bz2" title="barrier_oneway_red2.dx90.vtx.bz2">barrier_oneway_red2.dx90.vtx.bz2</a></td><td class="size">177 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.sw.vtx.bz2" title="barrier_oneway_red2.sw.vtx.bz2">barrier_oneway_red2.sw.vtx.bz2</a></td><td class="size">177 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.sw.vtx.bz2" title="barrier_oneway_red1.sw.vtx.bz2">barrier_oneway_red1.sw.vtx.bz2</a></td><td class="size">177 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_box1.dx90.vtx.bz2" title="barrier_box1.dx90.vtx.bz2">barrier_box1.dx90.vtx.bz2</a></td><td class="size">229 B</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_building1.sw.vtx.bz2" title="barrier_building1.sw.vtx.bz2">barrier_building1.sw.vtx.bz2</a></td><td class="size">229 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building1.dx90.vtx.bz2" title="barrier_building1.dx90.vtx.bz2">barrier_building1.dx90.vtx.bz2</a></td><td class="size">229 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building1.dx80.vtx.bz2" title="barrier_building1.dx80.vtx.bz2">barrier_building1.dx80.vtx.bz2</a></td><td class="size">229 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_box1.dx80.vtx.bz2" title="barrier_box1.dx80.vtx.bz2">barrier_box1.dx80.vtx.bz2</a></td><td class="size">230 B</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_box1.sw.vtx.bz2" title="barrier_box1.sw.vtx.bz2">barrier_box1.sw.vtx.bz2</a></td><td class="size">230 B</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_building2.vvd.bz2" title="barrier_building2.vvd.bz2">barrier_building2.vvd.bz2</a></td><td class="size">269 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.vvd.bz2" title="barrier_spawn_blue1.vvd.bz2">barrier_spawn_blue1.vvd.bz2</a></td><td class="size">279 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.vvd.bz2" title="barrier_oneway_red2.vvd.bz2">barrier_oneway_red2.vvd.bz2</a></td><td class="size">283 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.vvd.bz2" title="barrier_oneway_red1.vvd.bz2">barrier_oneway_red1.vvd.bz2</a></td><td class="size">307 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_building2.dx80.vtx" title="barrier_building2.dx80.vtx">barrier_building2.dx80.vtx</a></td><td class="size">333 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building2.sw.vtx" title="barrier_building2.sw.vtx">barrier_building2.sw.vtx</a></td><td class="size">333 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building2.dx90.vtx" title="barrier_building2.dx90.vtx">barrier_building2.dx90.vtx</a></td><td class="size">333 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.dx90.vtx" title="barrier_spawn_blue1.dx90.vtx">barrier_spawn_blue1.dx90.vtx</a></td><td class="size">381 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.dx80.vtx" title="barrier_spawn_blue1.dx80.vtx">barrier_spawn_blue1.dx80.vtx</a></td><td class="size">381 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.sw.vtx" title="barrier_spawn_blue1.sw.vtx">barrier_spawn_blue1.sw.vtx</a></td><td class="size">381 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.sw.vtx" title="barrier_oneway_red2.sw.vtx">barrier_oneway_red2.sw.vtx</a></td><td class="size">429 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.dx80.vtx" title="barrier_oneway_red2.dx80.vtx">barrier_oneway_red2.dx80.vtx</a></td><td class="size">429 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.sw.vtx" title="barrier_oneway_red1.sw.vtx">barrier_oneway_red1.sw.vtx</a></td><td class="size">429 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.dx90.vtx" title="barrier_oneway_red1.dx90.vtx">barrier_oneway_red1.dx90.vtx</a></td><td class="size">429 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.dx80.vtx" title="barrier_oneway_red1.dx80.vtx">barrier_oneway_red1.dx80.vtx</a></td><td class="size">429 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.dx90.vtx" title="barrier_oneway_red2.dx90.vtx">barrier_oneway_red2.dx90.vtx</a></td><td class="size">429 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_building2.mdl.bz2" title="barrier_building2.mdl.bz2">barrier_building2.mdl.bz2</a></td><td class="size">512 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.mdl.bz2" title="barrier_oneway_red2.mdl.bz2">barrier_oneway_red2.mdl.bz2</a></td><td class="size">513 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.phy.bz2" title="barrier_oneway_red1.phy.bz2">barrier_oneway_red1.phy.bz2</a></td><td class="size">516 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.mdl.bz2" title="barrier_oneway_red1.mdl.bz2">barrier_oneway_red1.mdl.bz2</a></td><td class="size">520 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_box1.mdl.bz2" title="barrier_box1.mdl.bz2">barrier_box1.mdl.bz2</a></td><td class="size">529 B</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.mdl.bz2" title="barrier_spawn_blue1.mdl.bz2">barrier_spawn_blue1.mdl.bz2</a></td><td class="size">531 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_building1.mdl.bz2" title="barrier_building1.mdl.bz2">barrier_building1.mdl.bz2</a></td><td class="size">533 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.phy.bz2" title="barrier_oneway_red2.phy.bz2">barrier_oneway_red2.phy.bz2</a></td><td class="size">538 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.phy.bz2" title="barrier_spawn_blue1.phy.bz2">barrier_spawn_blue1.phy.bz2</a></td><td class="size">549 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_building1.vvd.bz2" title="barrier_building1.vvd.bz2">barrier_building1.vvd.bz2</a></td><td class="size">583 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_box1.vvd.bz2" title="barrier_box1.vvd.bz2">barrier_box1.vvd.bz2</a></td><td class="size">595 B</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_building1.dx90.vtx" title="barrier_building1.dx90.vtx">barrier_building1.dx90.vtx</a></td><td class="size">615 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building1.sw.vtx" title="barrier_building1.sw.vtx">barrier_building1.sw.vtx</a></td><td class="size">615 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building1.dx80.vtx" title="barrier_building1.dx80.vtx">barrier_building1.dx80.vtx</a></td><td class="size">615 B</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_box1.sw.vtx" title="barrier_box1.sw.vtx">barrier_box1.sw.vtx</a></td><td class="size">615 B</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_box1.dx90.vtx" title="barrier_box1.dx90.vtx">barrier_box1.dx90.vtx</a></td><td class="size">615 B</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_box1.dx80.vtx" title="barrier_box1.dx80.vtx">barrier_box1.dx80.vtx</a></td><td class="size">615 B</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.phy" title="barrier_oneway_red2.phy">barrier_oneway_red2.phy</a></td><td class="size">726 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.phy" title="barrier_spawn_blue1.phy">barrier_spawn_blue1.phy</a></td><td class="size">726 B</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.phy" title="barrier_oneway_red1.phy">barrier_oneway_red1.phy</a></td><td class="size">726 B</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_building2.phy.bz2" title="barrier_building2.phy.bz2">barrier_building2.phy.bz2</a></td><td class="size">1.1 KiB</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building2.vvd" title="barrier_building2.vvd">barrier_building2.vvd</a></td><td class="size">1.1 KiB</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_box1.phy.bz2" title="barrier_box1.phy.bz2">barrier_box1.phy.bz2</a></td><td class="size">1.2 KiB</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_building1.phy.bz2" title="barrier_building1.phy.bz2">barrier_building1.phy.bz2</a></td><td class="size">1.2 KiB</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.vvd" title="barrier_spawn_blue1.vvd">barrier_spawn_blue1.vvd</a></td><td class="size">1.3 KiB</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_building2.phy" title="barrier_building2.phy">barrier_building2.phy</a></td><td class="size">1.5 KiB</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.vvd" title="barrier_oneway_red1.vvd">barrier_oneway_red1.vvd</a></td><td class="size">1.6 KiB</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.vvd" title="barrier_oneway_red2.vvd">barrier_oneway_red2.vvd</a></td><td class="size">1.6 KiB</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_box1.mdl" title="barrier_box1.mdl">barrier_box1.mdl</a></td><td class="size">1.7 KiB</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_building2.mdl" title="barrier_building2.mdl">barrier_building2.mdl</a></td><td class="size">1.7 KiB</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_building1.mdl" title="barrier_building1.mdl">barrier_building1.mdl</a></td><td class="size">1.7 KiB</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red1.mdl" title="barrier_oneway_red1.mdl">barrier_oneway_red1.mdl</a></td><td class="size">1.7 KiB</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_oneway_red2.mdl" title="barrier_oneway_red2.mdl">barrier_oneway_red2.mdl</a></td><td class="size">1.7 KiB</td><td class="date">2022-Jun-11 16:36</td></tr>
+<tr><td class="link"><a href="barrier_spawn_blue1.mdl" title="barrier_spawn_blue1.mdl">barrier_spawn_blue1.mdl</a></td><td class="size">1.7 KiB</td><td class="date">2022-Jun-11 16:16</td></tr>
+<tr><td class="link"><a href="barrier_box1.phy" title="barrier_box1.phy">barrier_box1.phy</a></td><td class="size">1.8 KiB</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_building1.phy" title="barrier_building1.phy">barrier_building1.phy</a></td><td class="size">1.8 KiB</td><td class="date">2022-Jun-09 13:31</td></tr>
+<tr><td class="link"><a href="barrier_box1.vvd" title="barrier_box1.vvd">barrier_box1.vvd</a></td><td class="size">2.4 KiB</td><td class="date">2022-Jun-07 14:17</td></tr>
+<tr><td class="link"><a href="barrier_building1.vvd" title="barrier_building1.vvd">barrier_building1.vvd</a></td><td class="size">2.4 KiB</td><td class="date">2022-Jun-09 13:31</td></tr>
+</tbody></table><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"834fb2c9c98865af","version":"2023.10.0","r":1,"token":"a32359c62dd74d65a4f2b882af501c36","b":1}' crossorigin="anonymous"></script>
+</body></html>

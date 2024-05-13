@@ -1,0 +1,86 @@
+<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width"><style type="text/css">body,html {background:#fff;font-family:"Bitstream Vera Sans","Lucida Grande","Lucida Sans Unicode",Lucidux,Verdana,Lucida,sans-serif;}tr:nth-child(even) {background:#f4f4f4;}th,td {padding:0.1em 0.5em;}th {text-align:left;font-weight:bold;background:#eee;border-bottom:1px solid #aaa;}#list {border:1px solid #aaa;width:100%;}a {color:#a33;}a:hover {color:#e33;}</style>
+
+<title>Index of /tf/models/bots/boss_air/</title>
+</head><body><h1>Index of /tf/models/bots/boss_air/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../?C=S&amp;O=D">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="boss_tank.vvd" title="boss_tank.vvd">boss_tank.vvd</a></td><td class="size">374.0 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.vvd" title="boss_tank_damage1.vvd">boss_tank_damage1.vvd</a></td><td class="size">368.1 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.vvd" title="bomb_mechanism.vvd">bomb_mechanism.vvd</a></td><td class="size">348.8 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.vvd" title="boss_tank_damage2.vvd">boss_tank_damage2.vvd</a></td><td class="size">329.0 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.vvd.bz2" title="boss_tank_damage1.vvd.bz2">boss_tank_damage1.vvd.bz2</a></td><td class="size">236.9 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.vvd.bz2" title="boss_tank_damage2.vvd.bz2">boss_tank_damage2.vvd.bz2</a></td><td class="size">212.1 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.vvd.bz2" title="boss_tank.vvd.bz2">boss_tank.vvd.bz2</a></td><td class="size">184.5 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.vvd" title="boss_tank_damage3.vvd">boss_tank_damage3.vvd</a></td><td class="size">155.1 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.vvd.bz2" title="bomb_mechanism.vvd.bz2">bomb_mechanism.vvd.bz2</a></td><td class="size">140.1 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.vvd.bz2" title="boss_tank_damage3.vvd.bz2">boss_tank_damage3.vvd.bz2</a></td><td class="size">99.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.dx90.vtx" title="boss_tank.dx90.vtx">boss_tank.dx90.vtx</a></td><td class="size">92.7 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.dx80.vtx" title="boss_tank.dx80.vtx">boss_tank.dx80.vtx</a></td><td class="size">92.7 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.sw.vtx" title="boss_tank.sw.vtx">boss_tank.sw.vtx</a></td><td class="size">92.6 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.dx80.vtx" title="boss_tank_damage1.dx80.vtx">boss_tank_damage1.dx80.vtx</a></td><td class="size">91.4 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.dx90.vtx" title="boss_tank_damage1.dx90.vtx">boss_tank_damage1.dx90.vtx</a></td><td class="size">91.4 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.sw.vtx" title="boss_tank_damage1.sw.vtx">boss_tank_damage1.sw.vtx</a></td><td class="size">91.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.dx90.vtx" title="boss_tank_damage2.dx90.vtx">boss_tank_damage2.dx90.vtx</a></td><td class="size">82.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.dx80.vtx" title="boss_tank_damage2.dx80.vtx">boss_tank_damage2.dx80.vtx</a></td><td class="size">82.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.sw.vtx" title="boss_tank_damage2.sw.vtx">boss_tank_damage2.sw.vtx</a></td><td class="size">82.2 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.dx90.vtx" title="bomb_mechanism.dx90.vtx">bomb_mechanism.dx90.vtx</a></td><td class="size">78.1 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.dx80.vtx" title="bomb_mechanism.dx80.vtx">bomb_mechanism.dx80.vtx</a></td><td class="size">78.1 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.sw.vtx" title="bomb_mechanism.sw.vtx">bomb_mechanism.sw.vtx</a></td><td class="size">78.0 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.dx90.vtx" title="boss_tank_damage3.dx90.vtx">boss_tank_damage3.dx90.vtx</a></td><td class="size">37.2 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.dx80.vtx" title="boss_tank_damage3.dx80.vtx">boss_tank_damage3.dx80.vtx</a></td><td class="size">37.2 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.sw.vtx" title="boss_tank_damage3.sw.vtx">boss_tank_damage3.sw.vtx</a></td><td class="size">37.2 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.sw.vtx.bz2" title="boss_tank.sw.vtx.bz2">boss_tank.sw.vtx.bz2</a></td><td class="size">35.4 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.sw.vtx.bz2" title="boss_tank_damage1.sw.vtx.bz2">boss_tank_damage1.sw.vtx.bz2</a></td><td class="size">34.7 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.dx80.vtx.bz2" title="boss_tank.dx80.vtx.bz2">boss_tank.dx80.vtx.bz2</a></td><td class="size">32.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.dx90.vtx.bz2" title="boss_tank.dx90.vtx.bz2">boss_tank.dx90.vtx.bz2</a></td><td class="size">32.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.dx90.vtx.bz2" title="boss_tank_damage1.dx90.vtx.bz2">boss_tank_damage1.dx90.vtx.bz2</a></td><td class="size">31.9 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.dx80.vtx.bz2" title="boss_tank_damage1.dx80.vtx.bz2">boss_tank_damage1.dx80.vtx.bz2</a></td><td class="size">31.9 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.sw.vtx.bz2" title="boss_tank_damage2.sw.vtx.bz2">boss_tank_damage2.sw.vtx.bz2</a></td><td class="size">31.5 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.dx80.vtx.bz2" title="boss_tank_damage2.dx80.vtx.bz2">boss_tank_damage2.dx80.vtx.bz2</a></td><td class="size">28.8 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.dx90.vtx.bz2" title="boss_tank_damage2.dx90.vtx.bz2">boss_tank_damage2.dx90.vtx.bz2</a></td><td class="size">28.8 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.sw.vtx.bz2" title="bomb_mechanism.sw.vtx.bz2">bomb_mechanism.sw.vtx.bz2</a></td><td class="size">27.4 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.dx90.vtx.bz2" title="bomb_mechanism.dx90.vtx.bz2">bomb_mechanism.dx90.vtx.bz2</a></td><td class="size">24.0 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.dx80.vtx.bz2" title="bomb_mechanism.dx80.vtx.bz2">bomb_mechanism.dx80.vtx.bz2</a></td><td class="size">24.0 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.sw.vtx.bz2" title="boss_tank_damage3.sw.vtx.bz2">boss_tank_damage3.sw.vtx.bz2</a></td><td class="size">13.9 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.dx80.vtx.bz2" title="boss_tank_damage3.dx80.vtx.bz2">boss_tank_damage3.dx80.vtx.bz2</a></td><td class="size">12.7 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.dx90.vtx.bz2" title="boss_tank_damage3.dx90.vtx.bz2">boss_tank_damage3.dx90.vtx.bz2</a></td><td class="size">12.7 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.mdl" title="bomb_mechanism.mdl">bomb_mechanism.mdl</a></td><td class="size">10.4 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.mdl" title="boss_tank_damage1.mdl">boss_tank_damage1.mdl</a></td><td class="size">10.0 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.mdl" title="boss_tank.mdl">boss_tank.mdl</a></td><td class="size">9.9 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.mdl" title="boss_tank_damage2.mdl">boss_tank_damage2.mdl</a></td><td class="size">9.4 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.mdl" title="boss_tank_damage3.mdl">boss_tank_damage3.mdl</a></td><td class="size">6.4 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.phy" title="boss_tank_damage2.phy">boss_tank_damage2.phy</a></td><td class="size">4.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.phy" title="boss_tank_damage3.phy">boss_tank_damage3.phy</a></td><td class="size">4.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.phy" title="boss_tank.phy">boss_tank.phy</a></td><td class="size">4.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.phy" title="boss_tank_damage1.phy">boss_tank_damage1.phy</a></td><td class="size">4.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="bomb_mechanism.mdl.bz2" title="bomb_mechanism.mdl.bz2">bomb_mechanism.mdl.bz2</a></td><td class="size">3.3 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.phy.bz2" title="boss_tank_damage3.phy.bz2">boss_tank_damage3.phy.bz2</a></td><td class="size">3.0 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.phy.bz2" title="boss_tank.phy.bz2">boss_tank.phy.bz2</a></td><td class="size">3.0 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage1.mdl.bz2" title="boss_tank_damage1.mdl.bz2">boss_tank_damage1.mdl.bz2</a></td><td class="size">2.9 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage2.mdl.bz2" title="boss_tank_damage2.mdl.bz2">boss_tank_damage2.mdl.bz2</a></td><td class="size">2.7 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank.mdl.bz2" title="boss_tank.mdl.bz2">boss_tank.mdl.bz2</a></td><td class="size">2.7 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.mdl" title="tank_track_r.mdl">tank_track_r.mdl</a></td><td class="size">2.6 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.mdl" title="tank_track_l.mdl">tank_track_l.mdl</a></td><td class="size">2.6 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="boss_tank_damage3.mdl.bz2" title="boss_tank_damage3.mdl.bz2">boss_tank_damage3.mdl.bz2</a></td><td class="size">2.1 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="anim_tank.mdl" title="anim_tank.mdl">anim_tank.mdl</a></td><td class="size">1.8 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.vvd" title="tank_track_l.vvd">tank_track_l.vvd</a></td><td class="size">1.6 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.vvd" title="tank_track_r.vvd">tank_track_r.vvd</a></td><td class="size">1.6 KiB</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.mdl.bz2" title="tank_track_l.mdl.bz2">tank_track_l.mdl.bz2</a></td><td class="size">754 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.mdl.bz2" title="tank_track_r.mdl.bz2">tank_track_r.mdl.bz2</a></td><td class="size">721 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="anim_tank.mdl.bz2" title="anim_tank.mdl.bz2">anim_tank.mdl.bz2</a></td><td class="size">464 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.dx90.vtx" title="tank_track_l.dx90.vtx">tank_track_l.dx90.vtx</a></td><td class="size">429 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.dx80.vtx" title="tank_track_r.dx80.vtx">tank_track_r.dx80.vtx</a></td><td class="size">429 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.dx90.vtx" title="tank_track_r.dx90.vtx">tank_track_r.dx90.vtx</a></td><td class="size">429 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.dx80.vtx" title="tank_track_l.dx80.vtx">tank_track_l.dx80.vtx</a></td><td class="size">429 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.sw.vtx" title="tank_track_r.sw.vtx">tank_track_r.sw.vtx</a></td><td class="size">421 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.sw.vtx" title="tank_track_l.sw.vtx">tank_track_l.sw.vtx</a></td><td class="size">421 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.vvd.bz2" title="tank_track_l.vvd.bz2">tank_track_l.vvd.bz2</a></td><td class="size">291 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.vvd.bz2" title="tank_track_r.vvd.bz2">tank_track_r.vvd.bz2</a></td><td class="size">262 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.sw.vtx.bz2" title="tank_track_r.sw.vtx.bz2">tank_track_r.sw.vtx.bz2</a></td><td class="size">186 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.sw.vtx.bz2" title="tank_track_l.sw.vtx.bz2">tank_track_l.sw.vtx.bz2</a></td><td class="size">185 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.dx80.vtx.bz2" title="tank_track_r.dx80.vtx.bz2">tank_track_r.dx80.vtx.bz2</a></td><td class="size">181 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_r.dx90.vtx.bz2" title="tank_track_r.dx90.vtx.bz2">tank_track_r.dx90.vtx.bz2</a></td><td class="size">181 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.dx90.vtx.bz2" title="tank_track_l.dx90.vtx.bz2">tank_track_l.dx90.vtx.bz2</a></td><td class="size">181 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+<tr><td class="link"><a href="tank_track_l.dx80.vtx.bz2" title="tank_track_l.dx80.vtx.bz2">tank_track_l.dx80.vtx.bz2</a></td><td class="size">181 B</td><td class="date">2021-Feb-12 18:24</td></tr>
+</tbody></table><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"834fb31fdbaa65af","version":"2023.10.0","r":1,"token":"a32359c62dd74d65a4f2b882af501c36","b":1}' crossorigin="anonymous"></script>
+</body></html>
