@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/nintendo/ssbu/byleth/female/eyeshadow"
+	"$bumpmap" "models/nintendo/ssbu/byleth/female/eyeshadowbump"
+	"$phongexponenttexture" "models/nintendo/ssbu/byleth/female/eyeshadowlight"
+
+	"$halflambert" "1"
+
+	"$phongexponent" "3"
+	"$phongalbedotint" "1"
+	"$phong" "1"
+	"$phongboost" "0.2"
+	"$phongfresnelranges" "[2 2 2 2]"
+
+	"$model" 1
+	"$translucent" 1
+}

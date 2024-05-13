@@ -1,0 +1,57 @@
+<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width"><style type="text/css">body,html {background:#fff;font-family:"Bitstream Vera Sans","Lucida Grande","Lucida Sans Unicode",Lucidux,Verdana,Lucida,sans-serif;}tr:nth-child(even) {background:#f4f4f4;}th,td {padding:0.1em 0.5em;}th {text-align:left;font-weight:bold;background:#eee;border-bottom:1px solid #aaa;}#list {border:1px solid #aaa;width:100%;}a {color:#a33;}a:hover {color:#e33;}</style>
+
+<title>Index of /tf/materials/models/player/automaton/</title>
+</head><body><h1>Index of /tf/materials/models/player/automaton/</h1>
+<table id="list"><thead><tr><th style="width:55%"><a href="?C=N&amp;O=A">File Name</a>&nbsp;<a href="?C=N&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:20%"><a href="?C=S&amp;O=A">File Size</a>&nbsp;<a href="?C=S&amp;O=D">&nbsp;&darr;&nbsp;</a></th><th style="width:25%"><a href="?C=M&amp;O=A">Date</a>&nbsp;<a href="?C=M&amp;O=D">&nbsp;&darr;&nbsp;</a></th></tr></thead>
+<tbody><tr><td class="link"><a href="../?C=M&amp;O=D">Parent directory/</a></td><td class="size">-</td><td class="date">-</td></tr>
+<tr><td class="link"><a href="automaton_limbs.vmt" title="automaton_limbs.vmt">automaton_limbs.vmt</a></td><td class="size">1.2 KiB</td><td class="date">2023-Aug-28 10:39</td></tr>
+<tr><td class="link"><a href="automaton_limbs.vmt.bz2" title="automaton_limbs.vmt.bz2">automaton_limbs.vmt.bz2</a></td><td class="size">573 B</td><td class="date">2023-Aug-28 10:39</td></tr>
+<tr><td class="link"><a href="autohand_red.vmt.bz2" title="autohand_red.vmt.bz2">autohand_red.vmt.bz2</a></td><td class="size">422 B</td><td class="date">2023-Aug-28 10:39</td></tr>
+<tr><td class="link"><a href="autohand_red.vmt" title="autohand_red.vmt">autohand_red.vmt</a></td><td class="size">826 B</td><td class="date">2023-Aug-28 10:39</td></tr>
+<tr><td class="link"><a href="autofoot_red.vmt" title="autofoot_red.vmt">autofoot_red.vmt</a></td><td class="size">949 B</td><td class="date">2023-Aug-28 10:39</td></tr>
+<tr><td class="link"><a href="autoeye2_red.vmt" title="autoeye2_red.vmt">autoeye2_red.vmt</a></td><td class="size">235 B</td><td class="date">2023-Aug-28 10:39</td></tr>
+<tr><td class="link"><a href="autofoot_red.vmt.bz2" title="autofoot_red.vmt.bz2">autofoot_red.vmt.bz2</a></td><td class="size">477 B</td><td class="date">2023-Aug-28 10:39</td></tr>
+<tr><td class="link"><a href="autoeye2_red.vmt.bz2" title="autoeye2_red.vmt.bz2">autoeye2_red.vmt.bz2</a></td><td class="size">163 B</td><td class="date">2023-Aug-28 10:39</td></tr>
+<tr><td class="link"><a href="automaton_handsfeet.vmt.bz2" title="automaton_handsfeet.vmt.bz2">automaton_handsfeet.vmt.bz2</a></td><td class="size">585 B</td><td class="date">2023-Aug-28 10:38</td></tr>
+<tr><td class="link"><a href="automaton_handsfeet.vmt" title="automaton_handsfeet.vmt">automaton_handsfeet.vmt</a></td><td class="size">1.2 KiB</td><td class="date">2023-Aug-28 10:38</td></tr>
+<tr><td class="link"><a href="automaton_body.vmt" title="automaton_body.vmt">automaton_body.vmt</a></td><td class="size">1.3 KiB</td><td class="date">2023-Aug-28 10:38</td></tr>
+<tr><td class="link"><a href="automaton_body.vmt.bz2" title="automaton_body.vmt.bz2">automaton_body.vmt.bz2</a></td><td class="size">628 B</td><td class="date">2023-Aug-28 10:38</td></tr>
+<tr><td class="link"><a href="autoeye_red.vmt" title="autoeye_red.vmt">autoeye_red.vmt</a></td><td class="size">895 B</td><td class="date">2023-Aug-28 10:38</td></tr>
+<tr><td class="link"><a href="autobody_red.vmt" title="autobody_red.vmt">autobody_red.vmt</a></td><td class="size">896 B</td><td class="date">2023-Aug-28 10:38</td></tr>
+<tr><td class="link"><a href="autobody_red.vmt.bz2" title="autobody_red.vmt.bz2">autobody_red.vmt.bz2</a></td><td class="size">470 B</td><td class="date">2023-Aug-28 10:38</td></tr>
+<tr><td class="link"><a href="autoeye_red.vmt.bz2" title="autoeye_red.vmt.bz2">autoeye_red.vmt.bz2</a></td><td class="size">484 B</td><td class="date">2023-Aug-28 10:38</td></tr>
+<tr><td class="link"><a href="automaton_limbs.vtf" title="automaton_limbs.vtf">automaton_limbs.vtf</a></td><td class="size">5.3 MiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="automaton_limbs.vtf.bz2" title="automaton_limbs.vtf.bz2">automaton_limbs.vtf.bz2</a></td><td class="size">1.6 MiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="automaton_handsfeet.vtf" title="automaton_handsfeet.vtf">automaton_handsfeet.vtf</a></td><td class="size">1.3 MiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="automaton_handsfeet.vtf.bz2" title="automaton_handsfeet.vtf.bz2">automaton_handsfeet.vtf.bz2</a></td><td class="size">320.5 KiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autohand_red.vtf" title="autohand_red.vtf">autohand_red.vtf</a></td><td class="size">1.3 MiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="automaton_body.vtf" title="automaton_body.vtf">automaton_body.vtf</a></td><td class="size">5.3 MiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="automaton_body_emissive.vtf" title="automaton_body_emissive.vtf">automaton_body_emissive.vtf</a></td><td class="size">5.3 MiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="automaton_body_emissive.vtf.bz2" title="automaton_body_emissive.vtf.bz2">automaton_body_emissive.vtf.bz2</a></td><td class="size">12.5 KiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="automaton_body.vtf.bz2" title="automaton_body.vtf.bz2">automaton_body.vtf.bz2</a></td><td class="size">1.4 MiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autobody_red.vtf" title="autobody_red.vtf">autobody_red.vtf</a></td><td class="size">682.9 KiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autoeye_red.vtf.bz2" title="autoeye_red.vtf.bz2">autoeye_red.vtf.bz2</a></td><td class="size">17.4 KiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autofoot_red.vtf" title="autofoot_red.vtf">autofoot_red.vtf</a></td><td class="size">5.3 MiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autofoot_exp.vtf.bz2" title="autofoot_exp.vtf.bz2">autofoot_exp.vtf.bz2</a></td><td class="size">138.9 KiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autofoot_red.vtf.bz2" title="autofoot_red.vtf.bz2">autofoot_red.vtf.bz2</a></td><td class="size">2.3 MiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autoeye2_red.vtf.bz2" title="autoeye2_red.vtf.bz2">autoeye2_red.vtf.bz2</a></td><td class="size">946 B</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autofoot_exp.vtf" title="autofoot_exp.vtf">autofoot_exp.vtf</a></td><td class="size">341.6 KiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autoeye_red.vtf" title="autoeye_red.vtf">autoeye_red.vtf</a></td><td class="size">170.9 KiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autobody_red.vtf.bz2" title="autobody_red.vtf.bz2">autobody_red.vtf.bz2</a></td><td class="size">188.6 KiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="autoeye2_red.vtf" title="autoeye2_red.vtf">autoeye2_red.vtf</a></td><td class="size">2.9 KiB</td><td class="date">2023-Aug-27 17:16</td></tr>
+<tr><td class="link"><a href="automaton_limbs_blue.vmt" title="automaton_limbs_blue.vmt">automaton_limbs_blue.vmt</a></td><td class="size">1.2 KiB</td><td class="date">2023-Aug-22 09:48</td></tr>
+<tr><td class="link"><a href="automaton_limbs_blue.vmt.bz2" title="automaton_limbs_blue.vmt.bz2">automaton_limbs_blue.vmt.bz2</a></td><td class="size">586 B</td><td class="date">2023-Aug-22 09:48</td></tr>
+<tr><td class="link"><a href="automaton_handsfeet_blue.vmt.bz2" title="automaton_handsfeet_blue.vmt.bz2">automaton_handsfeet_blue.vmt.bz2</a></td><td class="size">589 B</td><td class="date">2023-Aug-22 09:48</td></tr>
+<tr><td class="link"><a href="automaton_handsfeet_blue.vmt" title="automaton_handsfeet_blue.vmt">automaton_handsfeet_blue.vmt</a></td><td class="size">1.2 KiB</td><td class="date">2023-Aug-22 09:48</td></tr>
+<tr><td class="link"><a href="automaton_body_blue.vmt" title="automaton_body_blue.vmt">automaton_body_blue.vmt</a></td><td class="size">1.3 KiB</td><td class="date">2023-Aug-22 09:48</td></tr>
+<tr><td class="link"><a href="automaton_body_blue.vmt.bz2" title="automaton_body_blue.vmt.bz2">automaton_body_blue.vmt.bz2</a></td><td class="size">629 B</td><td class="date">2023-Aug-22 09:48</td></tr>
+<tr><td class="link"><a href="automaton_limbs_blue.vtf" title="automaton_limbs_blue.vtf">automaton_limbs_blue.vtf</a></td><td class="size">5.3 MiB</td><td class="date">2022-Aug-31 04:27</td></tr>
+<tr><td class="link"><a href="automaton_limbs_blue.vtf.bz2" title="automaton_limbs_blue.vtf.bz2">automaton_limbs_blue.vtf.bz2</a></td><td class="size">1.6 MiB</td><td class="date">2022-Aug-31 04:27</td></tr>
+<tr><td class="link"><a href="automaton_handsfeet_blue.vtf" title="automaton_handsfeet_blue.vtf">automaton_handsfeet_blue.vtf</a></td><td class="size">1.3 MiB</td><td class="date">2022-Aug-31 04:21</td></tr>
+<tr><td class="link"><a href="automaton_handsfeet_blue.vtf.bz2" title="automaton_handsfeet_blue.vtf.bz2">automaton_handsfeet_blue.vtf.bz2</a></td><td class="size">318.3 KiB</td><td class="date">2022-Aug-31 04:21</td></tr>
+<tr><td class="link"><a href="automaton_body_blue.vtf" title="automaton_body_blue.vtf">automaton_body_blue.vtf</a></td><td class="size">5.3 MiB</td><td class="date">2022-Aug-31 04:20</td></tr>
+<tr><td class="link"><a href="automaton_body_blue.vtf.bz2" title="automaton_body_blue.vtf.bz2">automaton_body_blue.vtf.bz2</a></td><td class="size">1.5 MiB</td><td class="date">2022-Aug-31 04:20</td></tr>
+<tr><td class="link"><a href="automaton_body_normal.vtf" title="automaton_body_normal.vtf">automaton_body_normal.vtf</a></td><td class="size">2.7 MiB</td><td class="date">2022-Aug-31 01:28</td></tr>
+<tr><td class="link"><a href="automaton_body_normal.vtf.bz2" title="automaton_body_normal.vtf.bz2">automaton_body_normal.vtf.bz2</a></td><td class="size">73.7 KiB</td><td class="date">2022-Aug-31 01:28</td></tr>
+</tbody></table><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"834ff62fee091722","version":"2023.10.0","r":1,"token":"a32359c62dd74d65a4f2b882af501c36","b":1}' crossorigin="anonymous"></script>
+</body></html>

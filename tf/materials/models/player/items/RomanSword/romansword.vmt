@@ -1,0 +1,33 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/items/RomanSword/RomanSword"
+
+                "$bumpmap" "models/effects/romeswordbump.vtf"
+
+
+	"$nocull" "1"
+
+               	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "10"	
+	
+	"$phongfresnelranges"	"[.25 .5 1]"
+
+
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "10"	
+	"$rimlightboost" "20"
+
+	"360?$color2" "[ 0.9 0.8 0.8 ]"
+
+
+	"$glowcolor" "1"
+
+
+
+
+	
+
+}

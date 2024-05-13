@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/class_headstones/headstone_spy_normal"
+	"$bumpmap" "models/class_headstones/headstone_spy_normal"
+	"$model" "1"
+	"$selfillum" "1"
+}

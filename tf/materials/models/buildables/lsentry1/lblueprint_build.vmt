@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/buildables/lsentry1/lblueprint_build"
+	"$surfaceprop"	"no_decal"
+}

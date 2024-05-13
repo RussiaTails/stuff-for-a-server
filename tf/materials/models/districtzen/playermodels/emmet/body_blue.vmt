@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture "models/districtzen/playermodels/emmet/body_blue"
+	$bumpmap "models/districtzen/playermodels/emmet/body_n"
+
+	$lightwarptexture "models/districtzen/playermodels/emmet/body_l"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$halflambert 1
+	$phongexponent 5
+}

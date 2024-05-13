@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/nintendo/ssbu/byleth/female/sclera"
+	"$iris" "models/nintendo/ssbu/byleth/female/alt1/eyer"
+	"$halflambert" 1
+}

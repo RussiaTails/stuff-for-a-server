@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/scout_fox_2014/fox_body_grey_gib"
+	"$bumpmap" "models/player/scout_fox_2014/fox_body_normal"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "5"	
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[0.007 0.4 5]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "2"
+}

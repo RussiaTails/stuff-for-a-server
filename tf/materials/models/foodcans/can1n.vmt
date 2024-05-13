@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/foodcans/can_round/open/can1n"
+	"$normalmap" "models/foodcans/can_round/open/can1n"
+}

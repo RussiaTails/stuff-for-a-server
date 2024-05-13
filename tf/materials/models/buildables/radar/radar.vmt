@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/buildables/radar/radar"
+	"$bumpmap" "models/buildables/radar/radar_phongmask"
+
+	"$phong" "1"
+	"$phongboost" "10"
+	"$phongexponent" "25"
+	"$lightwarptexture" "models/buildables/sentry1/sentry1_lightwarp"
+	"$phongfresnelranges"	"[.5 1.5 10]"
+	
+	
+	"$rimlight" "1"		
+	"$rimlightexponent" "4"				
+	"$rimlightboost" "1.5"
+}

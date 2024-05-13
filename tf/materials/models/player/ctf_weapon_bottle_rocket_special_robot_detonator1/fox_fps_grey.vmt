@@ -1,0 +1,18 @@
+VertexLitGeneric {
+	$basetexture models/player/scout_fox_2014/fox_fps_grey
+	$bumpmap models/player/scout/scout_hands_normal
+	$phong 1
+	$phongexponent 10
+	$phongboost 0.05	
+	$lightwarptexture models/player/engineer/engineer_hands_lightwarp
+	$phongfresnelranges	"[1 5 60]"
+	$halflambert 1
+	$rimlight 1
+	$rimlightexponent 4
+	$rimlightboost .1
+	$cloakPassEnabled 1
+	Proxies {
+		invis {
+		}
+	}
+}

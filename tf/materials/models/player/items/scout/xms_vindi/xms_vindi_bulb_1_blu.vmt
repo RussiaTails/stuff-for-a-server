@@ -1,0 +1,68 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/player/items/scout/xms_vindi/xms_vindi_bulb_1_blu"
+
+	"$selfillum" 1
+	
+	"$bumpmap" "models/player/items/scout/xms_vindi/xms_vindi_bulb_phong.vtf"
+	"$phong" "1"
+	"$phongexponent" "13"
+	"$phongboost" "4"	
+	"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+	"$phongfresnelranges"	"[.25 .5 1]"
+
+	"$glowcolor" "1"
+
+	"$basephongexponent" "13"
+	"$basephongboost" "4"
+
+	"$commadd_phongexponent" "13"
+	"$commadd_phongboost" 	"4"
+	"$commweapon"		"0"
+
+	"$rimlight" "1"			
+	"$rimlightexponent" "12"	
+	"$rimlightboost" ".25"
+
+	"$cloakPassEnabled" "1"
+
+	"Proxies"
+	{
+		"weapon_invis"
+		{
+		}
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 0.7
+		}
+
+		"BurnLevel"
+		{
+			"resultVar" "$detailblendfactor"
+		}
+
+		"YellowLevel"
+		{
+			"resultVar" "$yellow"
+		}
+
+		"Equals"
+		{
+			"srcVar1" "$yellow"
+			"resultVar" "$color2"
+		}
+		//"ItemTintColor"
+		//{
+			//"resultVar" "$colortint_tmp"
+		//}
+		"SelectFirstIfNonZero"
+		{
+			"srcVar1"	"$colortint_tmp"
+			"srcVar2"	"$colortint_base"
+			"resultVar" "$color2"
+		}
+	}
+}

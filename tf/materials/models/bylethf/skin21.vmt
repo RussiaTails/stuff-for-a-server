@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/nintendo/ssbu/byleth/female/alt2/skin2"
+	"$bumpmap" "models/nintendo/ssbu/byleth/female/skin2bump"
+	"$phongexponenttexture" "models/nintendo/ssbu/byleth/female/skin2light"
+
+	"$color2"	"[1.6 1.2 1.2]"
+	"$halflambert" "1"
+
+	"$phongexponent" "3"
+	"$phongalbedotint" "1"
+	"$phong" "1"
+	"$phongboost" "0.2"
+	"$phongfresnelranges" "[2 2 2 2]"
+
+	"$model" 1
+}
