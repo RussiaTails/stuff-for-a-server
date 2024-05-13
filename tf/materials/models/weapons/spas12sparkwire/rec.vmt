@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" "Models/Weapons/spas12sparkwire/rec"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "Models/Weapons/spas12sparkwire/rec_ref"
+}

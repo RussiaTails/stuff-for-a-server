@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$baseTexture" "Models/Weapons/spas12sparkwire/foldstock"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "Models/Weapons/spas12sparkwire/foldstock_ref"
+}
