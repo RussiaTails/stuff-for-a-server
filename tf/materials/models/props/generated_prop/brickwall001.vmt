@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "brick/brickwall001"
+	"$bumpmap" "brick/brickwall001_height-ssbump"
+	"%keywords" "tf"
+
+}

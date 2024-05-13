@@ -1,0 +1,28 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_pizzatower/monitor"
+	"$phong" "1"
+	"$phongboost" "0.5"
+	"$phongexponent" "20"
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[.5 1.5 10]"
+	"$nodecal" "1"
+
+	"$rimlight" "1"		
+	"$rimlightexponent" "4"
+	"$rimlightboost" "1.5"
+	// Cloaking
+	"$cloakPassEnabled" "1"
+
+	"Proxies"
+	{
+		"building_invis"
+		{
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture" "animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" "20"
+		}
+	}
+}

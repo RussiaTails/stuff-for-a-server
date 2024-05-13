@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+    "$selfillum" "1"
+    "$basetexture"		"models/workshop/player/items/all_class/dec20_candy_cantlers/dec20_candy_cantlers_color"
+
+}

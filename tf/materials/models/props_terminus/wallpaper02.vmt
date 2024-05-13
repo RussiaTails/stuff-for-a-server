@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "cp_manor/wallpaper02"
+	"$surfaceprop" "wood"
+	"%keywords" "tf"
+	"$nocull" "1"
+}

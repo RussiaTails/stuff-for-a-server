@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models/props_brain/fluid_tube_fluid"
+	"$nodecal" 1
+	"$selfillum" 1
+}

@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_brain/big_brain"
+	"$phong" "1"
+	"$phongexponent" "16"
+	"$phongboost" "0.8"	
+	"$phongfresnelranges"	"[2 1 5]"
+	"$halflambert" "1"
+	$translucent 0
+
+}

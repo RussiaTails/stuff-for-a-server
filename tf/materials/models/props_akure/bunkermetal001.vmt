@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/bunkermetal001"
+	"$surfaceprop" "metal"
+	"%keywords" "tf, frontline"
+}

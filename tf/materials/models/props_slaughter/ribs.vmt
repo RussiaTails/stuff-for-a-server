@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_slaughter/ribs"
+	"$phong"	"1"
+	"$phongboost"	"1"
+	"$phongexponent"	"40"
+	"$phongfresnelranges"	"[1 2 2.5]"
+	"$rimlight"	"1"
+	"$rimlightexponent"	"1"
+}

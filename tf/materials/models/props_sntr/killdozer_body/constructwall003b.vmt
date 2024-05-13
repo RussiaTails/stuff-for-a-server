@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "construction/concrete/constructwall003b"
+                "$bumpmap" "construction/concrete/concretefresh001_ssbump"
+	"%keywords" "tf"
+	"$detail" "overlays/detail001"
+	"$detailscale" "1"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "2"
+
+}

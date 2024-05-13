@@ -1,0 +1,22 @@
+// envmaptint_fix
+"vertexlitgeneric"
+{
+	"$basetexture" "metal/metalwall001b"
+	"$surfaceprop"  "metal"
+	"$detail" "detail/metal_detail_01"
+	"$detailscale" "4.283"
+	"$detailblendfactor" .8
+	"$detailblendmode" "0"
+
+	"%keywords" "c17industrial"
+
+
+	"vertexlitgeneric_dx9"
+	{
+		"$envmaptint" "[ .56 .56 .56 ]"
+		"$envmap" "env_cubemap"
+
+		"$envmapcontrast" 1
+		"$envmapsaturation" 1
+	}
+}

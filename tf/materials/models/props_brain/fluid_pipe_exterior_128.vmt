@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/props_brain/fluid_pipe_exterior_128"
+	"$surfaceprop" "metal"
+}
