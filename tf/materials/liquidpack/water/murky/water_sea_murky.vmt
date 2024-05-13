@@ -1,0 +1,58 @@
+"Water"
+{
+
+	<dx90
+	{
+		 	"$fallbackmaterial" "water/water_2fort_dx80"
+	}
+
+	"%keywords" "tf liquidpack"	
+	"%tooltexture" "liquidpack/water/water_sea"
+	"%compilewater" 1
+	"$abovewater" 1
+	"$envmap" "env_cubemap"	
+	
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" ".12"
+	"$refracttint" "{255 255 255}"
+
+	//"$reflecttexture" "_rt_WaterReflection" //uncomment this section to enable real time "expensive" reflections
+	//"$reflectamount" "0.05"
+	//"$reflecttint" "{255 255 255}"
+
+	"$scale" "[1 1]"
+
+	"$normalmap" "liquidpack/water/water_sea"
+
+	"$surfaceprop" "water"
+	"$bottommaterial" "liquidpack/water/murky/water_sea_murky_beneath.vmt"
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{35 32 20}"
+	"$fogstart" "0"
+	"$fogend" "200"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 24.00
+		}
+
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" 0.1
+			"texturescrollangle" 180
+		}
+		"WaterLOD"
+		{
+			// fixme!  This has to be here, or material loading barfs.
+			"dummy" 0
+		}
+	}
+}

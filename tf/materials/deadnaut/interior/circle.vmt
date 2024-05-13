@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+
+	 $model "1"
+	 $basetexture "Deadnaut/Interior/circle"
+	"$additive"	1
+	"$translucent"	1
+
+// Cloaking
+
+	"$cloakPassEnabled" "1"
+}

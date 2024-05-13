@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "lassiemm/hair1"
+$nocull 1
+}

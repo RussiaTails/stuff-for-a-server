@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "lassiemm/mouth"
+$nocull 1
+}
+

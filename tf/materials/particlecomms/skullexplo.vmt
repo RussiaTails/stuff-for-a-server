@@ -1,0 +1,5 @@
+"SpriteCard"
+{
+	"$basetexture" "particlecomms/skullexplo"
+	"$translucent" "1"
+}

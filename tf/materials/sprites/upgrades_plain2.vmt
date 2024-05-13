@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sprites/upgrades_plain"
+	"%keywords" "tf"
+	"$nolod" 1
+	"$translucent" 1
+	"$ignorez" 1
+}

@@ -1,0 +1,49 @@
+ColorCorrection
+{
+	$WEIGHT_DEFAULT 0.45
+	$WEIGHT0 0.45
+	// $WEIGHT1 0
+	// $WEIGHT2 0
+	// $WEIGHT3 0
+	$NUM_LOOKUPS 1
+	$USE_FB_TEXTURE 1
+	$alpha 1
+	// Set USE_FB_TEXTURE to 0 if you want to use this
+	// $INPUT_TEXTURE "test/test123mat"
+	
+	// For DirectX 8 users, this will just make the material display nothing
+	<dx90
+	{
+		$no_draw 1
+	}
+
+	// Proxies
+	// {
+	// 	linearramp
+	// 	{
+	// 		rate 0.02
+	// 		initialValue 0.0
+	// 		resultVar $WEIGHT0
+	// 	}
+	// 	linearramp
+	// 	{
+	// 		rate 0.02
+	// 		initialValue 0.0
+	// 		resultVar $WEIGHT_DEFAULT
+	// 	}
+	// 	Clamp
+	// 	{
+	// 		min 0.0
+	// 		max 0.4
+	// 		srcVar1 $WEIGHT0
+	// 		resultVar $WEIGHT0
+	// 	}
+	// 	Clamp
+	// 	{
+	// 		min 0.0
+	// 		max 0.4
+	// 		srcVar1 $WEIGHT_DEFAULT
+	// 		resultVar $WEIGHT_DEFAULT
+	// 	}
+	// }
+}
