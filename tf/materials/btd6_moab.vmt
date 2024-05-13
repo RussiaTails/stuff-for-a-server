@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "btd6_moab"
+	"$bumpmap"	 "btd6_moab"
+	"$model"	1
+	"$selfillum"	1
+}

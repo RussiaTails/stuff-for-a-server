@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "c_frag_red"
+	"$selfillum" "1"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "4"	
+	"$lightwarptexture" "models/lightwarps/weapon_lightwarp"
+	"$phongfresnelranges" "[0.25 0.5 1]"
+}

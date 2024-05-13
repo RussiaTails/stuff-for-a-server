@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "w_minigun"
+	$translucent 1
+}
