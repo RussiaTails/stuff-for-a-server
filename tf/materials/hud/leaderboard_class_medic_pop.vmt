@@ -1,5 +1,5 @@
 "UnlitGeneric"
 {
-	"$basetexture" "hud/leaderboard_class_medic_pop"
+	"$basetexture" "HUD/leaderboard_class_medic_pop"
 	"$translucent" 1
 }

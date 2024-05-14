@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "hud/leaderboard_class_soldier_rocketrain"
+	"$baseTexture" "hud\leaderboard_class_pyro_airblast_buff_yoovy"
 	"$vertexcolor" 1
 	"$no_fullbright" 1
 	"$ignorez" 1
