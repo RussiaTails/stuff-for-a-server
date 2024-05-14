@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "metal/bunkermetal005b"
-	"$bumpmap" "metal/bunkermetal001_height-ssbump"
-	"$surfaceprop" "metal"
-	"%keywords" "tf, frontline"
-}

@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "models/props_arctic/helicopter/tail"
-	"$translucent" "1"
-	"$nocull" "1"
-}

@@ -1,9 +1,0 @@
-"eyes"
-{
-	"$baseTexture" "freak_fortress_2\lucario\eye_invun"
-	"$iris" "freak_fortress_2\lucario\pupil_invun"
-	"$halflambert" 1
-	"$nodecal" "1"
-	"$SphereTexkillCombo" "0"	
-	"$RaytraceSphere" "0"
-}

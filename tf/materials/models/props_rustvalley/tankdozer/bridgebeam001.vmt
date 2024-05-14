@@ -1,7 +1,0 @@
-"vertexlitgeneric"
-{
-	"$basetexture" "metal/bridgebeam001"
-//	"$bumpmap" "metal/bridgebeam_normal"
-	"$surfaceprop" "metal"
-	"%keywords" "tf"
-}

@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-	"$baseTexture" "Models/Weapons/spas12sparkwire/grips"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "Models/Weapons/spas12sparkwire/grips_ref"
-}

@@ -1,5 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/buildables/radar/radar_blueprint_build"
-	"$surfaceprop"	"no_decal"
-}

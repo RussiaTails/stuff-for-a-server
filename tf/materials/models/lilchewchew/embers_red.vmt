@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-$basetexture models/Lilchewchew/Embers_red
-$selfillum 1
-$halflambert 1
-$model 1
-}

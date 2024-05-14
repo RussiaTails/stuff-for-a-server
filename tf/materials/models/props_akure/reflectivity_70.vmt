@@ -1,6 +1,0 @@
-"vertexlitgeneric"
-{
-	// original shader: basetimeslightmap
-	"$basetexture" "dev/reflectivity_70"
-	"$surfaceprop" "concrete"
-}

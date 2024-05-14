@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-
-	 $basetexture "models/player/vatican/jokerspy/Joker_Diff"
-	 $bumpmap "models/player/vatican/jokerspy/Joker_normals"
-	 $lightwarptexture "models/player/pyro/pyro_lightwarp"
-	 $AmbientOcclusion "1" 
-	 $AmbientOcclTexture "models/player/vatican/jokerspy/Joker_Diff"
-}

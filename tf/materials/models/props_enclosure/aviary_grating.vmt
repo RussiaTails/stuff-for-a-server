@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/props_enclosure/aviary_grating"
-	"$nocull" 1
-	"$alphatest" 1
-}

@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/props_brain/brain_growth003"
-	"$selfillum" "1"
-	"$selfillummask" "models/props_brain/brain_growth003_selfillummask"
-}

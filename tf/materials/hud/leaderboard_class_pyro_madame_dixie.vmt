@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "hud/leaderboard_class_pyro_madame_dixie"
-	$translucent 1
-	"$vertexcolor"	1
-}

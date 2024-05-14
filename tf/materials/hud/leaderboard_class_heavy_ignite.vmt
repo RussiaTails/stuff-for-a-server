@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "hud/leaderboard_class_heavy_ignite"
-	"$translucent" 1
-	"$no_fullbright" 1
-}

@@ -1,9 +1,0 @@
-"UnlitGeneric"
-{
-	"$baseTexture" "models/effects/100transparent"
-	"$translucent" 1
-	"$nodecal" "1"	
-
-
-}
-

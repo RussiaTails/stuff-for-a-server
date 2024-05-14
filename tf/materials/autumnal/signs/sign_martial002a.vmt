@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "autumnal/signs/sign_martial002a"
-	"$decal" 1
-	"$alphatest" 1
-	"%tooltexture" "autumnal/signs/tooltipmartial002a"
-	"%keywords" "tf, autumnal"
-	"$allowalphatocoverage" 1
-}

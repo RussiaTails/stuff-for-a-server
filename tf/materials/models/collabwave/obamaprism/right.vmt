@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/collabwave/obamaprism/right"
-	"$surfaceprop" "Flesh"
-	"$translucent" 1
-}
