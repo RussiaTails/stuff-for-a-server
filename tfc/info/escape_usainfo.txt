@@ -1,0 +1,59 @@
+================================================================
+Title                  	: Escape To USA - Border Run
+Date                   	: June 16, 2002
+Filename                : escape_usa.bsp
+Author                  : David Brent  *AKA*GenBowl
+Email Address        	: davidbb@mindless.com
+Home Page            	: http://classicaka.com/
+
+Description             : A basic escape/border style map, similar to Hunted.  A US plane goes down near the US/CAN border, 				and a group of pilots are help up in a small village.  It's up to the US troops to help the 				pilots escape back into US.  Canadian Mounties try to stop the pilots from escaping.
+
+Additional Credits    	: 1. Classic*AKA* (http://classicaka.com/) and all of it's staff, 
+				for keeping up the kick ass game servers for so long!
+	                  2. Kick ass thanks to all the *AKA* Guild members who put in time to beta test this map.  					They were (in no specific order): *AKA*GenBowl, *AKA*Goomba, *AKA*White Bishop, 				*AKA*Slipknot, *AKA*Ken_Kaniff, *AKA*Dradicus
+                          3. Valve software for making this great game.
+
+Installation		: If you cannot copy/paste the tfc folder, then here are the placements of files.
+				\Half-Life\tfc [escape_usa.wad]
+				\Half-Life\tfc\maps [escape_usa.bsp]
+				\Half-Life\tfc\maps [escape_usa.txt]
+				\Half-Life\tfc\maps [escape_usainfo.bsp]
+                          
+================================================================
+
+* Play Information *
+---------------------------
+
+Single Player	 	: No
+Deathmatch            	: No
+Team Fortress        	: Yes
+Difficulty Settings    	: No
+
+* Construction *
+------------------------
+
+Base                   	: This map was built from total scratch, using similar ideas from the tfcborder2a map.  The bordering 				trees and fence were used from a .wad pack I found on pipejump2001, so any credits for that 				go to Jobabob's crew.
+Editor(s) used         	: Worldcraft 3.3
+Known Issues         	: If you are using Software Mode, this map will run extremely slow and sluggish.  If you are not 				using OpenGL and/or don't have a good video card, don't complain to me about your outdated 				hardware.  A minor error with the truck is that it doesn't tilt going up/down the hill, so 				if you are standing near the truck when it goes on the hill, you may be crushed underneath. 
+
+
+Total Compile Time        :  7 hours
+Compile machine           : PIII 700mhz 256MB RAM DS III S540 32MB
+QCSG Time                 :  15 second
+QBSP Time                 :  35 second
+QVIS Time (full)          :  5 hours
+QRAD Time (extra)         :  2 hours
+
+* Permissions *
+-----------------------
+
+No selling this map for money!
+I know you want to whore my map, but I just don't like my maps whored!
+Free distribution online is fine as long I get credited for the map.
+Please email me if you do share this map or any of the zip contents online.  
+
+You MAY NOT alter or add on to this level AT ALL, find someone else to whore from.
+
+E-mail me your thoughts on my level. Whats good, whats bad etc. I love feedback, it keeps me going!
+
+================================================================
