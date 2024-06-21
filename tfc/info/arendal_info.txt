@@ -1,0 +1,196 @@
+25/07/2003					Made in Norway
+===================================================================
+			    Arendal
+                    ----------------------
+
+
+ This map is designed for the Team Fortress Classic 1.5 Half-Life MOD
+===================================================================
+=========================
+Where to put the files:
+=========================
+
+
+	Half-Life/FoxBot/tfc/areas	...arendal.far
+
+	Half-Life/tfc/gfx/env
+
+					...arendal_up.tga
+					...arendal_dn.tga
+					...arendal_ft.tga
+					...arendal_lf.tga
+					...arendal_rt.tga
+					...arendal_bk.tga
+					...arendal_up.bmp
+					...arendal_dn.bmp
+					...arendal_ft.bmp
+					...arendal_lf.bmp
+					...arendal_rt.bmp
+					...arendal_bk.bmp
+
+	Half-Life/tfc/maps/	      
+					...arendal.bsp
+					...arendal.txt
+					...arendal.res
+
+	Half-Life/tfc/overviews
+					...arendal.bmp
+					...arendal.txt
+
+	Half-Life/tfc/models/epromod
+					...bankbox.mdl
+					...hwstatue.mdl
+					...labomba.mdl
+					...president_statue.mdl
+					...red_pack01.mdl
+					...starburger_01.mdl
+					...starburger_02.mdl
+
+	Half-Life/tfc/sound/ambience/
+					...arendal_ocean.wav
+===================================================================
+===============
+Map objectives
+===============
+
+Listen up boys! We have a new mission.
+Some rich collector guy of some sort has payed us $4000000 bucks
+to attack the Arendal Bank and steal a bunch of priceless diamonds that
+are stored in the bank vault. However it is not that easy.
+To prevent the cops crawling all over us after the robbery,
+we have to take out two of the towns security headquarters.
+Then we will only have the banks guard force on us,
+and they should be much easier to handle.
+I have arranged a temporary hideout that we will retreate to
+before we take the diamonds to the delivery area.
+
+-----------------------------------------------------------------------------
+
+The attackers must secure two security stations before they can rob the bank,
+get to the hideout and finally get the loot to the delivery area.
+The defenders job is to stop them.
+When mission is accomplished, the teams swaps roles.
+
+Scoring: Red team  - 2 points each 30 seconds
+	 Blue team - 10 points per capture
+===================================================================
+=================
+File Information
+=================
+
+Title:            Arendal
+BSP File:         arendal.bsp
+Author:           Morten Andreas Myhren a.k.a. Eradicatus Prometheus
+Email Address:    Wexorg@Hotmail.com
+Level Size:       Big
+Number of teams:  2
+
+Recommended number of players: 12 - 32
+
+New Textures  : yes
+New Sounds    : yes
+New Sky	      : yes
+New Models    : yes
+
+===================================================================
+============
+CONSTRUCTION
+============
+Base:                    	From scratch
+
+Editors and programs Used:	Valve Hammer Editor V 3.4
+				Zoner's Half-Life Tools V 2.5.3
+				Wally 1.55b
+				H-L Model Viewer 1.2.5
+				Ms paint
+				Adobe Photoshop 5.0
+				Cool Edit Pro 2.0
+				NotePad
+				3d Studio Max 4.25
+				Milkshape 3d 1.6.6a
+				Terragen 0.8.68
+
+Machine Used:			AMD XP 1700+  768mb DDR Ram, Windows XP Pro
+
+Build Time:			2 months
+
+Compile Time:			50 Minutes and 21 seconds
+
+Known Bugs:			There is some minor visual issues some places
+				(you see buildings through the sky and stuff)
+
+				If you jump around in the cap 2 area,
+				you can suddenly see your gun fully
+				illuminated for a split second.
+
+===================================================================
+=======================
+ADDITIONAL INFORMATION
+=======================
+
+I have included a .far foxbot area file (for use with sparky tfc script or any other scripts)
+( http://sparky.konspiracy.org )
+Sorry, no foxbot waypoints as foxbot waypoint scripting is not in my "vocabulary"
+If you want to make waypoints, please do.
+Note: Foxbot .far file was made with foxbot beta 0.698.17.0
+(check your foxbot.dll in your half-life/foxbot directory)
+
+Peoples who made the textures not made by me:
+
+MikeZillas
+megamikedeus2.wad
+
+Blazeer
+blasurban.wad
+
+Locknut
+St.Louis.wad
+
+These wad has also been used but I have not been able to get
+the names of those who made them:
+
+Clamtex.wad
+dtex_asylum_01.wad
+itsitaly.wad (taken from the HL Mod Counterstrike [cs_italy] )
+cs_office.wad (possibly Locknut, Smoe or George_Pooshoes [Taken from the HL Mod
+Counterstrike{cs_office}])
+Firearms.wad (taken from the HL Mod Firearms)
+
+Many of these wads has been downloaded from the Wadfather
+( http://www.planethalflife.com/wadfather )
+
+All the models in this map are made by me, except the standard backpacks.
+The statues are ripoffs ;)
+
+===================================================================
+====================
+Thanks goes out to: 
+====================
+
+Sierra
+
+The Valve team
+
+Zoner for his Compiler Tools
+
+All the texture makers
+
+Department Of Engineering for beta testing all the betas
+( www.game-edit.org )
+
+All betatesters
+
+===================================================================
+==========
+LEGAL BIT
+==========
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
