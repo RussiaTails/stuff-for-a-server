@@ -1,0 +1,14 @@
+// overview description file for 4fought.bsp
+
+global 
+{
+	ZOOM	0.99
+	ORIGIN	-64	704	-368.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/4fought.bmp"
+	HEIGHT	-368.00
+}
