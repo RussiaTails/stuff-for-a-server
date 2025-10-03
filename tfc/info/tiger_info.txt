@@ -1,0 +1,101 @@
+September 24, 1999
+-----------------------------------------------------------------------------------
+Title                    : TIGER
+Filename                 : tiger.zip
+Author                   : Arne 'cyNic' Lund
+Email Address            : cynic@bigfoot.de
+Homepage		 : http://www.crosswinds.net/~cynicmaps
+Description              : Team Fortress Classic map (Territorial Control) 
+
+* Play Information *
+
+Single Player            : No
+
+Teamfortress		 : Yes
+Number of Teams		 : 2
+Recommended # of Players : 8-24
+
+Deathmatch               : No
+Difficulty Settings      : No
+
+* Construction *
+
+Base                     : scratch
+Editor used              : Worldcraft 2.1
+Known Bugs               : the tank is a little bit cramped, sometimes it's hard
+			   to climb on it and enter the turret (especially under 
+		           heavy fire with a damn flag in your hand ;))
+
+Build Time               : about 5 weeks
+
+Compile machine          : Celeron 433 with 192 megs RAM
+QCSG Time		 : 58 secs 
+QBSP Time                : 28 secs
+QVIS Time (full)         : 1583 secs
+QRAD Time (normal)       : 2088 secs
+New Textures		 : tiger.wad
+New Sounds		 : waves.wav, storm.wav, birds.wav
+
+-----------------------------------------------------------------------------------
+INSTALL INFORMATION:
+
+Unpack the tiger.zip file into your Half-Life directory.
+Example : c:/games/halflife/
+
+-----------------------------------------------------------------------------------
+THE STORY:
+
+'Tiger' is the sequel to 'Total War'. 
+After long and hard battles on the eastern front against the Red Army, german 
+attention is forced to the western front on June, 6 in 1944. 
+The OKW (OberKommando der Wehrmacht) sends some troops and tanks to a little french 
+seaport, that is an important strategical keypoint to the Allies' advance.
+The german troops, guarded by a mighty 'Tiger II', arrive at the seaport, but a 
+bunch of GIs are already there and they don't feel like to welcome their german 
+friends.
+After a quick, but hard fight, both sides retreat to different areas. The german
+'Wehrmacht' controls an old fortress - the GIs control the seaport's Fueldepot.
+Now you're in command. Choose your side and get in control of the whole seaport!
+
+-----------------------------------------------------------------------------------
+PLAY INFORMATION:
+
+This map has the same rules as the famous Valve-map 'cz2'.
+Objective: Take Flags from your Base and place them on the Command Points situated 
+throughout the map. Use the control facility in your Base to see, who owns each 
+territory.
+Scoring: 1 point for every 30 seconds you hold a Command Point.
+25 points for capturing all Command Points.
+10 points for destroying the enemy base.
+Other Notes: Flag carriers move at half-speed.
+
+-----------------------------------------------------------------------------------
+ADDITIONAL INFORMATION:
+
+Enemy players can easily enter your Base. Keep an eye (and an ear) on it.
+Every time an enemy Demoman invades your base (to destroy it, i guess...), a siren 
+will start screaming to warn you.
+This map is not symmetrical - both sides have their different advantages. Know them
+and use them.
+
+-----------------------------------------------------------------------------------
+ADDITIONAL CREDITS TO:
+
+-Flintman at info_beta and all the crazy maptesters I've met at the Play Test
+-Navyfighter at info_design for a great site full of knowlegde
+-Radium for still beeing the master of reviews and the mapper's voice
+-The unknown artist, who created the awesome sky. Sorry, I've forgotten his name, 
+ but without his work this map wouldn't exist - Thanks!
+-Yves Bresson for giving me the hint how to make loopable wavs
+-All people at Wavelength, who helped me in any way
+-Team Fortress Software and Valve Software
+-all people, who'll forgive me the high r_speeds at some places in the map
+
+-----------------------------------------------------------------------------------
+COPYRIGHT INFORMATION:
+
+Tiger is copyright 1999 cyNic.
+Authors may use this map as a base to build additional maps as long as they
+leave some credits for me.
+
+-----------------------------------------------------------------------------------

@@ -1,0 +1,12 @@
+global
+{
+ZOOM	1.32
+ORIGIN	48 -128 -1921
+ROTATED	1
+}
+
+layer
+{
+IMAGE	"overviews/escape_usa.tga"
+HEIGHT	-1921
+}

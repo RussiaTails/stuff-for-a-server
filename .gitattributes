@@ -1,0 +1,4 @@
+pl_patagonia_rc1b.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+vsh_hailstone_rc1h.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+pl_odyssey_b4.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
+ctf_hades_b5.bsp.bz2 filter=lfs diff=lfs merge=lfs -text
