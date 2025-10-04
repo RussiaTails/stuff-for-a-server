@@ -1,46 +1,47 @@
-name: Build and Deploy GitHub Pages
+name: Build and Deploy Jekyll Pages
 
+# Trigger on pushes to main branch (adjust if needed)
 on:
   push:
     branches:
-      - main  # or your default branch
+      - main
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout your repo
+      # 1️⃣ Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2️⃣ Setup Node.js
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      # 2️⃣ Setup Ruby environment (required for Jekyll)
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          node-version: 18
+          ruby-version: 3.2
 
-      # 3️⃣ Install dependencies
+      # 3️⃣ Install dependencies (gems from Gemfile)
       - name: Install dependencies
-        run: npm ci
+        run: bundle install
 
-      # 4️⃣ Build the static site
-      - name: Build site
-        run: npm run build
-
-      # 5️⃣ Show disk usage before cleanup (optional)
-      - name: Check disk usage before cleanup
+      # 4️⃣ Optional: check disk usage before build
+      - name: Check disk usage before build
         run: |
           df -h
           du -h --max-depth=2 | sort -hr | head -n 20
 
-      # 6️⃣ Clean up temporary files to free space
-      - name: Clean build caches
-        run: |
-          echo "Removing temporary build files to prevent disk full..."
-          rm -rf node_modules .cache build dist .next
+      # 5️⃣ Build the Jekyll site
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
 
-      # 7️⃣ Show disk usage after cleanup (optional)
+      # 6️⃣ Optional: clean unnecessary caches to free space
+      - name: Clean caches
+        run: |
+          echo "Removing temporary cache directories..."
+          rm -rf .jekyll-cache .sass-cache
+
+      # 7️⃣ Optional: check disk usage after cleanup
       - name: Check disk usage after cleanup
         run: df -h
 
@@ -48,5 +49,4 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
-          # This directory should contain your final built static site
-          publish_dir: ./public
+          publish_dir: ./_site
